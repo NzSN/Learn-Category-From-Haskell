@@ -1,0 +1,7 @@
+cradle:
+  cabal:
+    - path: "src"
+      component: "lib:Category"
+
+    - path: "test"
+      component: "Category:test:Category-test"
